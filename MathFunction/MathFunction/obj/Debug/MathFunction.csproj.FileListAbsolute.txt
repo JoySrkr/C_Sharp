@@ -1,0 +1,7 @@
+F:\C # practice\MathFunction\MathFunction\bin\Debug\MathFunction.exe.config
+F:\C # practice\MathFunction\MathFunction\bin\Debug\MathFunction.exe
+F:\C # practice\MathFunction\MathFunction\bin\Debug\MathFunction.pdb
+F:\C # practice\MathFunction\MathFunction\obj\Debug\MathFunction.csprojAssemblyReference.cache
+F:\C # practice\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+F:\C # practice\MathFunction\MathFunction\obj\Debug\MathFunction.exe
+F:\C # practice\MathFunction\MathFunction\obj\Debug\MathFunction.pdb
