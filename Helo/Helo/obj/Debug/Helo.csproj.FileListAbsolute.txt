@@ -1,0 +1,15 @@
+F:\C # practice\Helo\Helo\obj\Debug\Helo.csprojAssemblyReference.cache
+F:\C # practice\Helo\Helo\obj\Debug\MainWindow.g.cs
+F:\C # practice\Helo\Helo\obj\Debug\App.g.cs
+F:\C # practice\Helo\Helo\obj\Debug\Helo_MarkupCompile.cache
+F:\C # practice\Helo\Helo\obj\Debug\Helo_MarkupCompile.lref
+F:\C # practice\Helo\Helo\bin\Debug\Helo.exe.config
+F:\C # practice\Helo\Helo\bin\Debug\Helo.exe
+F:\C # practice\Helo\Helo\bin\Debug\Helo.pdb
+F:\C # practice\Helo\Helo\obj\Debug\MainWindow.baml
+F:\C # practice\Helo\Helo\obj\Debug\Helo.g.resources
+F:\C # practice\Helo\Helo\obj\Debug\Helo.Properties.Resources.resources
+F:\C # practice\Helo\Helo\obj\Debug\Helo.csproj.GenerateResource.cache
+F:\C # practice\Helo\Helo\obj\Debug\Helo.csproj.CoreCompileInputs.cache
+F:\C # practice\Helo\Helo\obj\Debug\Helo.exe
+F:\C # practice\Helo\Helo\obj\Debug\Helo.pdb

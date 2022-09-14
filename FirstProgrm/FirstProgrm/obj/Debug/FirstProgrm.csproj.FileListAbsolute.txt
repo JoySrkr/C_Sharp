@@ -1,0 +1,3 @@
+F:\C # practice\FirstProgrm\FirstProgrm\obj\Debug\FirstProgrm.csprojAssemblyReference.cache
+F:\C # practice\FirstProgrm\FirstProgrm\obj\Debug\App.g.cs
+F:\C # practice\FirstProgrm\FirstProgrm\obj\Debug\FirstProgrm_MarkupCompile.cache
